@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="vrisha" label="Vrisha" language="en" table="scam">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>vrisha</element>
+            <help/>
+            <hint/>
+            <label>Vrisha</label>
+            <language>en</language>
+            <name>scam</name>
+            <plural>Vrishas</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-13 19:48:31</sys_created_on>
+            <sys_id>6e886c525333101071a3ddeeff7b1261</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Vrisha</sys_name>
+            <sys_package display_value="appglobal14" source="cfd720525333101071a3ddeeff7b12cd">cfd720525333101071a3ddeeff7b12cd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="appglobal15">91f7e0525333101071a3ddeeff7b122f</sys_scope>
+            <sys_update_name>sys_documentation_scam_vrisha_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-13 19:53:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="appglobal15">91f7e0525333101071a3ddeeff7b122f</claim_owner_scope>
+        <claim_timestamp>17523868f3c0000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_scam_vrisha_en</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>appglobal15</previous_claim_name>
+        <previous_claim_scope>91f7e0525333101071a3ddeeff7b122f</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-13 19:53:49</sys_created_on>
+        <sys_id>1cc924925333101071a3ddeeff7b12ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-13 19:53:49</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="appglobal15">91f7e0525333101071a3ddeeff7b122f</claim_owner_scope>
+        <claim_timestamp>1752385c2e90000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_scam_vrisha_en</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>appglobal14</previous_claim_name>
+        <previous_claim_scope>cfd720525333101071a3ddeeff7b12cd</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-13 19:53:49</sys_created_on>
+        <sys_id>dcc924925333101071a3ddeeff7b12ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-13 19:53:49</sys_updated_on>
+    </sys_claim>
+</record_update>
